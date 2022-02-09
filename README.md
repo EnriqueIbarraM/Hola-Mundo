@@ -1,2 +1,4 @@
-# Hola-Mundo
-Mi Primer Repositorio
+# Hola Mundo
+Mi Primer Repositorio.
+
+Edición en Rama alternativa.
